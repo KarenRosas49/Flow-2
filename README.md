@@ -30,7 +30,7 @@ Para hacer las instalaciones requeridas para este ejercicio se siguieron los pas
 ## Resultados
 Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se muestra a continuación:
 
-![Captura de pantalla](Captura_Flow_2.png)
+![Captura de pantalla](Captura_Flow2.png)
 
 ## Evidencias
 [EVidencia Flow 2]()
