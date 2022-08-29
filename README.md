@@ -33,9 +33,9 @@ Una vez completados los pasos anteriores se deberá ver una ventana que cada seg
 ![Captura de pantalla](Captura_Flow2.png)
 
 ## Evidencias
-[EVidencia Flow 2]()
+[Evidencia Flow 2](https://youtu.be/qwmD1mZGj_I)
 
-##Créditos
+## Créditos
 Este ejercicio fue basado en los ejercicios que se encuentran en el repositorio [flow2-NodeRed](https://github.com/hugoescalpelo/Flow2-NodeRed)
 
 Documentación realizada por [Karen Rosas](https://github.com/KarenRosas49)
