@@ -21,7 +21,9 @@ Para hacer las instalaciones requeridas para este ejercicio se siguieron los pas
 4. Dar doble click al bloque de **inject** y en donde dice "repeat" seleccionar la opción de *interval* y colocar un tiempo de un segundo.
 5. Agregar un bloque **function** y copiar el siguiente código:
 >var date = new Date(msg.payload);
+
 >msg.payload = date.toString();
+
 >return msg;
 6. Una vez copiado dar click en el botón **Done**.
 7. Unir el bloque **function** con el bloque **inject** y el bloque **debug**.
